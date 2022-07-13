@@ -1,0 +1,15 @@
+D:\AIUB\Bank\Bank\bin\Debug\net6.0\Bank.exe
+D:\AIUB\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+D:\AIUB\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+D:\AIUB\Bank\Bank\bin\Debug\net6.0\Bank.dll
+D:\AIUB\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.dll
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+D:\AIUB\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
